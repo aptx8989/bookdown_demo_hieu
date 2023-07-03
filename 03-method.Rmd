@@ -29,3 +29,11 @@ Now I test the plot of the data in R:
 data = read.csv("./data/tutor_ggplot2_data.csv")
 head(data)
 ```
+
+And this is the ggplot2 package:
+
+```{r}
+suppressMessages(library(dplyr))
+suppressMessages(library(tidyverse))
+data %>% filter(person_income >50000) %>% ggplot(aes(x = loan_amnt)) + geom_histogram(fill = "red", col = "black")
+```
