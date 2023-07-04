@@ -7,7 +7,7 @@ Some _significant_ applications are demonstrated in this chapter.
 Đây là một vài hình vẽ rất đẹp.
 Test dấu hỏi
 
-```{r, echo = FALSE, warning = FALSE}
+```{r, warning = FALSE}
 library(tidyverse)
 library(gganimate)
 library(dslabs)

@@ -26,6 +26,7 @@ Now I test the plot of the data in R:
 
 ```{r}
 #library(dplyr)
+library(dplyr)
 data = read.csv("./data/tutor_ggplot2_data.csv")
 head(data)
 ```
