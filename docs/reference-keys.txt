@@ -3,6 +3,17 @@ tab:nice-tab
 prerequisites
 intro
 literature
+bản-copy-của-midterm-visualization
+chuẩn-bị
+bài-1-data-summary
+bài-2-visualize-các-vector-factor
+bài-3-visualize-vector-numeric
+bài-4-vẽ-biểu-đồ-với-nhiều-vector-khác-nhau
+bài-5-vẽ-biểu-đồ-thể-hiện-mối-quan-hệ-giữa-2-vector-numeric
+bài-6-vẽ-biểu-đồ-biểu-diễn-một-vector-numeric-và-một-vector-factor
+bài-7-vẽ-biểu-đồ-biểu-diễn-2-vector-numeric-và-1-vector-factor
+bài-8-vẽ-biểu-đồ-một-vector-numeric-và-2-vector-factor
+bài-9-vẽ-biểu-đồ-đường
 methods
 math-example
 applications
